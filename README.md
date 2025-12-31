@@ -88,7 +88,7 @@
 </td>
 <td align="center" width="120">
 <a href="https://www.credential.net/c037baa1-11ff-4b6c-a059-86259fb4d23a">
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94584612" width="80" alt="TensorFlow"/>
+<img src="https://www.gstatic.com/devrel-devsite/prod/ve08add287a6b4bdf8961ab8a1be50bf551be3816cdd70b7cc934114ff3ad5f10/tensorflow/images/lockup.svg" width="80" alt="TensorFlow"/>
 </a>
 <br><sub><b>TensorFlow</b></sub>
 </td>
