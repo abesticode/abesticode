@@ -1,9 +1,9 @@
 name: Update README Contributions
 
 on:
-  # Run every 10 minutes (for testing - change back to */4 hours later)
+  # Run every 4 hours (6 times per day)
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 */4 * * *'
   
   # Allow manual trigger from GitHub UI
   workflow_dispatch:
