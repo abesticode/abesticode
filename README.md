@@ -79,16 +79,15 @@
 
 <div align="center">
 
-| Certification | Issuer |
-|:---|:---:|
-| 🎖️ **PCAP – Certified Associate in Python Programming** | OpenEDG Python Institute |
-| 🧠 **TensorFlow Developer Certificate** | TensorFlow Certificate Program |
-| 🌍 **ArcGIS Developer Foundation 2201** | Esri |
-| ⚙️ **Apache Airflow Fundamentals** | Astronomer |
-| ☁️ **AWS Certified Data Engineer – Associate** | Amazon Web Services |
-| 🤖 **Azure AI Engineer Associate** | Microsoft |
-| 📊 **Azure Data Engineer Associate** | Microsoft |
-| 🔬 **Azure Data Scientist Associate** | Microsoft |
+[![PCAP](https://img.shields.io/badge/PCAP-Python_Certified_Associate-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/a4ae7da7-bf7a-4d0c-96ad-80290702d69a)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credential.net/c037baa1-11ff-4b6c-a059-86259fb4d23a)
+[![ArcGIS](https://img.shields.io/badge/ArcGIS-Developer_Foundation-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)](https://www.credly.com/badges/ecad145c-887a-4e8d-94c9-503acfa1a81e)
+[![Airflow](https://img.shields.io/badge/Apache_Airflow-Fundamentals-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://www.credly.com/badges/461fcf8d-667d-4e53-b9fe-3e2ac8afeffd)
+
+[![AWS](https://img.shields.io/badge/AWS-Data_Engineer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/430f3bc7-58bc-4117-94d2-391e43237e86)
+[![Azure AI](https://img.shields.io/badge/Azure-AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/16c685be-dd0f-47b0-bdce-738907eb76c3)
+[![Azure Data](https://img.shields.io/badge/Azure-Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/2bc40a10-d7ff-4b9c-aad0-263749dfd9aa)
+[![Azure DS](https://img.shields.io/badge/Azure-Data_Scientist_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/a385ecc4-576d-4fff-94f7-7db3e7157c94)
 
 </div>
 
