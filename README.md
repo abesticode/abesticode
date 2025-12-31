@@ -78,17 +78,60 @@
 ## 🏆 Certifications
 
 <div align="center">
-
-[![PCAP](https://img.shields.io/badge/PCAP-Python_Certified_Associate-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/a4ae7da7-bf7a-4d0c-96ad-80290702d69a)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credential.net/c037baa1-11ff-4b6c-a059-86259fb4d23a)
-[![ArcGIS](https://img.shields.io/badge/ArcGIS-Developer_Foundation-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)](https://www.credly.com/badges/ecad145c-887a-4e8d-94c9-503acfa1a81e)
-[![Airflow](https://img.shields.io/badge/Apache_Airflow-Fundamentals-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://www.credly.com/badges/461fcf8d-667d-4e53-b9fe-3e2ac8afeffd)
-
-[![AWS](https://img.shields.io/badge/AWS-Data_Engineer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/430f3bc7-58bc-4117-94d2-391e43237e86)
-[![Azure AI](https://img.shields.io/badge/Azure-AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/16c685be-dd0f-47b0-bdce-738907eb76c3)
-[![Azure Data](https://img.shields.io/badge/Azure-Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/2bc40a10-d7ff-4b9c-aad0-263749dfd9aa)
-[![Azure DS](https://img.shields.io/badge/Azure-Data_Scientist_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/a385ecc4-576d-4fff-94f7-7db3e7157c94)
-
+<table>
+<tr>
+<td align="center" width="120">
+<a href="https://www.credly.com/badges/a4ae7da7-bf7a-4d0c-96ad-80290702d69a">
+<img src="https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" width="80" alt="PCAP"/>
+</a>
+<br><sub><b>PCAP Python</b></sub>
+</td>
+<td align="center" width="120">
+<a href="https://www.credential.net/c037baa1-11ff-4b6c-a059-86259fb4d23a">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94584612" width="80" alt="TensorFlow"/>
+</a>
+<br><sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="120">
+<a href="https://www.credly.com/badges/ecad145c-887a-4e8d-94c9-503acfa1a81e">
+<img src="https://images.credly.com/size/340x340/images/5f6b6dfb-9bc5-4f9d-9d58-b6c5e3ad8f39/arcgis-developer-foundation.png" width="80" alt="ArcGIS"/>
+</a>
+<br><sub><b>ArcGIS Developer</b></sub>
+</td>
+<td align="center" width="120">
+<a href="https://www.credly.com/badges/461fcf8d-667d-4e53-b9fe-3e2ac8afeffd">
+<img src="https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png" width="80" alt="Airflow"/>
+</a>
+<br><sub><b>Apache Airflow</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<a href="https://www.credly.com/badges/430f3bc7-58bc-4117-94d2-391e43237e86">
+<img src="https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="80" alt="AWS"/>
+</a>
+<br><sub><b>AWS Data Engineer</b></sub>
+</td>
+<td align="center" width="120">
+<a href="https://www.credly.com/badges/16c685be-dd0f-47b0-bdce-738907eb76c3">
+<img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="80" alt="Azure AI"/>
+</a>
+<br><sub><b>Azure AI Engineer</b></sub>
+</td>
+<td align="center" width="120">
+<a href="https://www.credly.com/badges/2bc40a10-d7ff-4b9c-aad0-263749dfd9aa">
+<img src="https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" width="80" alt="Azure Data"/>
+</a>
+<br><sub><b>Azure Data Engineer</b></sub>
+</td>
+<td align="center" width="120">
+<a href="https://www.credly.com/badges/a385ecc4-576d-4fff-94f7-7db3e7157c94">
+<img src="https://images.credly.com/size/340x340/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="80" alt="Azure DS"/>
+</a>
+<br><sub><b>Azure Data Scientist</b></sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
