@@ -69,6 +69,8 @@
 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 28k+ | 1 | 2025-09-12 |
 | [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 417+ | 3 | 2025-12-29 |
 
+*🔄 Last updated: 2025-12-31 12:00 UTC*
+
 </div>
 
 ---

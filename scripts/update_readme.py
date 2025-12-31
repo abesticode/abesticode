@@ -125,7 +125,7 @@ def generate_table(repos: list) -> str:
 
 
 def update_readme(table_content: str, readme_path: str = README_PATH) -> bool:
-    """Update the README.md file with new table content"""
+    """Update the README.md file with new table content and timestamp"""
     
     try:
         with open(readme_path, "r", encoding="utf-8") as f:
@@ -144,10 +144,17 @@ def update_readme(table_content: str, readme_path: str = README_PATH) -> bool:
         # Replace old table with new table
         new_content = content[:match.start()] + table_content + "\n" + content[match.end():]
         
+        # Update the "Last updated" timestamp
+        timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+        timestamp_pattern = r"\*🔄 Last updated: .*\*"
+        new_timestamp = f"*🔄 Last updated: {timestamp}*"
+        new_content = re.sub(timestamp_pattern, new_timestamp, new_content)
+        
         with open(readme_path, "w", encoding="utf-8") as f:
             f.write(new_content)
         
         print(f"✅ README updated successfully!")
+        print(f"🕐 Timestamp: {timestamp}")
         return True
     else:
         print("❌ Could not find the contributions table in README")
