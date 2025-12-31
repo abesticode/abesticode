@@ -20,7 +20,7 @@
 - 🔭 Currently working as **ML Engineer Lead** at Insignia Indonesia
 - 🌱 Passionate about **AI Engineering**, **Deep Learning**, and **LLM Applications**
 - 💡 Love solving complex problems with innovative AI solutions
-- � **Seeking remote project opportunities**
+- 👯 **Seeking remote project opportunities**
 - 🎓 B.Sc Computer Science (GPA: 3.84/4.0)
 
 <br clear="right"/>
@@ -81,7 +81,7 @@
 |:---|:---:|
 | 🎖️ **PCAP – Certified Associate in Python Programming** | OpenEDG Python Institute |
 | 🧠 **TensorFlow Developer Certificate** | TensorFlow Certificate Program |
-| � **ArcGIS Developer Foundation 2201** | Esri |
+| 🌍 **ArcGIS Developer Foundation 2201** | Esri |
 | ⚙️ **Apache Airflow Fundamentals** | Astronomer |
 | ☁️ **AWS Certified Data Engineer – Associate** | Amazon Web Services |
 | 🤖 **Azure AI Engineer Associate** | Microsoft |
@@ -94,36 +94,12 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![Blog Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=abesticode&repo=Blog-Recommendation-System&theme=tokyonight)](https://github.com/abesticode/Blog-Recommendation-System)
-[![RFM Analysis](https://github-readme-stats.vercel.app/api/pin/?username=abesticode&repo=RFM-Analysis-Online-Retail&theme=tokyonight)](https://github.com/abesticode/RFM-Analysis-Online-Retail)
-
-</div>
-
 | Project | Description | Tech |
 |:---|:---|:---:|
 | 🔍 [Blog Recommendation System](https://github.com/abesticode/Blog-Recommendation-System) | Content-based recommendation engine | `Python` `ML` |
 | 📊 [RFM Analysis Online Retail](https://github.com/abesticode/RFM-Analysis-Online-Retail) | Customer segmentation analysis | `Python` `Analytics` |
 | 💳 [German Credit Risk](https://github.com/abesticode/German_Credit_Risk) | Credit risk prediction model | `Python` `ML` |
 | 🚲 [Toronto Bikeshare Data](https://github.com/abesticode/Toronto-Bikeshare-Data) | Bikeshare data analysis | `Python` `Data Science` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=abesticode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abesticode&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abesticode&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -148,8 +124,6 @@
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/agungbesti/) or explore my work here on [GitHub](https://github.com/abesticode)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=abesticode&color=blueviolet&style=for-the-badge)
 
 *"Finding the best solutions to complex problems"* 🧠
 
