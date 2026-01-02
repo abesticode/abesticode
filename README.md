@@ -136,6 +136,17 @@
 
 ---
 
+## 🔌 Published Dify Plugins
+
+*Open source plugins available on [Dify Marketplace](https://marketplace.dify.ai/)* 🛒
+
+| Plugin | Description | Links |
+|:---|:---|:---:|
+| 📧 **Email HTML Pro** | Send professional HTML emails with full template support. Features raw HTML rendering, markdown-to-HTML conversion, AWS SES/Gmail/SMTP compatibility, file attachments, CC/BCC, and batch sending. | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/abesticode/dify-plugin-email-html-pro) [![Marketplace](https://img.shields.io/badge/Marketplace-1C64F2?style=flat-square&logo=dify&logoColor=white)](https://marketplace.dify.ai/plugins/abesticode/email_html_pro) |
+| 📚 **Knowledge Pro** | A comprehensive AI Agent tool for managing Dify Knowledge Bases (Datasets). Enables advanced operations including creating, updating, and deleting Datasets and Documents, managing content chunks, and retrieving knowledge with metadata filtering. | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/abesticode/dify-plugin-knowledge-pro) [![Marketplace](https://img.shields.io/badge/Marketplace-1C64F2?style=flat-square&logo=dify&logoColor=white)](https://marketplace.dify.ai/plugins/abesticode/knowledge_pro) |
+
+---
+
 ## 📌 Featured Projects
 
 | Project | Description | Tech |
