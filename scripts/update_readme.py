@@ -16,7 +16,7 @@ from github import Auth
 # Configuration
 GITHUB_USERNAME = "abesticode"
 README_PATH = "README.md"
-TOP_N_REPOS = 4  # Number of top repos to display
+TOP_N_REPOS = 10  # Number of top repos to display
 MIN_STARS = 100  # Minimum stars for a repo to be included
 
 # GitHub Token - set via environment variable for security
