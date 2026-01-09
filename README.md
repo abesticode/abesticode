@@ -72,9 +72,9 @@
 | [langgenius/dify](https://github.com/langgenius/dify) | 125k+ | 3 | 2025-12-14 |
 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 28k+ | 1 | 2025-09-12 |
 | [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 500+ | 1 | 2026-01-06 |
-| [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 419+ | 7 | 2026-01-08 |
+| [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 420+ | 7 | 2026-01-08 |
 
-*🔄 Last updated: 2026-01-08 02:07 UTC*
+*🔄 Last updated: 2026-01-09 02:08 UTC*
 
 </div>
 
