@@ -71,10 +71,10 @@
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 171k+ | 1 | 2025-10-23 |
 | [langgenius/dify](https://github.com/langgenius/dify) | 127k+ | 3 | 2025-12-14 |
 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 28k+ | 1 | 2025-09-12 |
-| [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 508+ | 1 | 2026-01-06 |
+| [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 509+ | 1 | 2026-01-06 |
 | [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 434+ | 9 | 2026-01-13 |
 
-*🔄 Last updated: 2026-01-23 02:08 UTC*
+*🔄 Last updated: 2026-01-24 02:04 UTC*
 
 </div>
 
