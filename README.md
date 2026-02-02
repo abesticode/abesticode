@@ -68,13 +68,13 @@
 
 | Repository | ⭐ Stars | PRs | Last PR |
 |:---|:---:|:---:|:---:|
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 172k+ | 1 | 2025-10-23 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 173k+ | 1 | 2025-10-23 |
 | [langgenius/dify](https://github.com/langgenius/dify) | 128k+ | 3 | 2025-12-14 |
 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 29k+ | 1 | 2025-09-12 |
-| [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 513+ | 1 | 2026-01-06 |
+| [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 514+ | 1 | 2026-01-06 |
 | [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 441+ | 9 | 2026-01-13 |
 
-*🔄 Last updated: 2026-02-01 02:54 UTC*
+*🔄 Last updated: 2026-02-02 02:43 UTC*
 
 </div>
 
