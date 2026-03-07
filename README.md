@@ -70,11 +70,11 @@
 |:---|:---:|:---:|:---:|
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 178k+ | 1 | 2025-10-23 |
 | [langgenius/dify](https://github.com/langgenius/dify) | 131k+ | 3 | 2025-12-14 |
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 31k+ | 1 | 2025-09-12 |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 32k+ | 1 | 2025-09-12 |
 | [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 535+ | 1 | 2026-01-06 |
-| [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 451+ | 9 | 2026-01-13 |
+| [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 452+ | 9 | 2026-01-13 |
 
-*🔄 Last updated: 2026-03-06 02:34 UTC*
+*🔄 Last updated: 2026-03-07 02:27 UTC*
 
 </div>
 
