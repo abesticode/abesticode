@@ -71,10 +71,10 @@
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 179k+ | 1 | 2025-10-23 |
 | [langgenius/dify](https://github.com/langgenius/dify) | 133k+ | 3 | 2025-12-14 |
 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 33k+ | 1 | 2025-09-12 |
-| [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 537+ | 1 | 2026-01-06 |
+| [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 538+ | 1 | 2026-01-06 |
 | [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 456+ | 9 | 2026-01-13 |
 
-*🔄 Last updated: 2026-03-16 02:54 UTC*
+*🔄 Last updated: 2026-03-17 02:38 UTC*
 
 </div>
 
