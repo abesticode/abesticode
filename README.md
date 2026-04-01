@@ -74,7 +74,7 @@
 | [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 546+ | 1 | 2026-01-06 |
 | [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 464+ | 9 | 2026-01-13 |
 
-*🔄 Last updated: 2026-03-31 02:51 UTC*
+*🔄 Last updated: 2026-04-01 03:21 UTC*
 
 </div>
 
