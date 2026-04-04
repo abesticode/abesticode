@@ -72,9 +72,9 @@
 | [langgenius/dify](https://github.com/langgenius/dify) | 136k+ | 3 | 2025-12-14 |
 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 34k+ | 1 | 2025-09-12 |
 | [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 549+ | 1 | 2026-01-06 |
-| [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 465+ | 9 | 2026-01-13 |
+| [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 466+ | 9 | 2026-01-13 |
 
-*🔄 Last updated: 2026-04-03 02:50 UTC*
+*🔄 Last updated: 2026-04-04 02:40 UTC*
 
 </div>
 
