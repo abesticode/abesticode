@@ -73,7 +73,7 @@
 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 34k+ | 1 | 2025-09-12 |
 | [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 566+ | 1 | 2026-01-06 |
 
-*🔄 Last updated: 2026-05-08 03:34 UTC*
+*🔄 Last updated: 2026-05-09 03:34 UTC*
 
 </div>
 
