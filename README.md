@@ -68,13 +68,13 @@
 
 | Repository | ⭐ Stars | PRs | Last PR |
 |:---|:---:|:---:|:---:|
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 192k+ | 1 | 2025-10-23 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 193k+ | 1 | 2025-10-23 |
 | [langgenius/dify](https://github.com/langgenius/dify) | 145k+ | 3 | 2025-12-14 |
 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 35k+ | 1 | 2025-09-12 |
 | [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 583+ | 3 | 2026-05-29 |
 | [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 516+ | 2 | 2026-06-02 |
 
-*🔄 Last updated: 2026-06-14 04:44 UTC*
+*🔄 Last updated: 2026-06-15 05:00 UTC*
 
 </div>
 
