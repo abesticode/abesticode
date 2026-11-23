@@ -73,9 +73,9 @@
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 64k+ | 2 | 2026-11-17 |
 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 38k+ | 1 | 2025-09-12 |
 | [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | 644+ | 6 | 2026-08-23 |
-| [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 563+ | 4 | 2026-08-04 |
+| [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) | 564+ | 4 | 2026-08-04 |
 
-*🔄 Last updated: 2026-11-22 05:59 UTC*
+*🔄 Last updated: 2026-11-23 06:51 UTC*
 
 </div>
 
